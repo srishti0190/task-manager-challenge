@@ -2,15 +2,15 @@
 
 *Repositories:*
 
-1. Presentation Service Rest Endpoints
-   https: https://github.com/srishti0190/task-management-rest-application
-2. User interface
+1. Presentation Service Rest Endpoints:
+   https://github.com/srishti0190/task-management-rest-application
+2. User interface:
    https://github.com/srishti0190/task-management-app-ui
-3. UI Automation test
+3. UI Automation test:
    https://github.com/srishti0190/task-manager-ui-test
-4. Docker images
-   bom.ocir.io/bmkvfx57mojv/task-manager-rest-app:0.0.2
-   bom.ocir.io/bmkvfx57mojv/task-manager-ui:0.0.2
+4. Docker images:
+   - bom.ocir.io/bmkvfx57mojv/task-manager-rest-app:0.0.2
+   - bom.ocir.io/bmkvfx57mojv/task-manager-ui:0.0.2
 
 
 ## Interview Challenge
